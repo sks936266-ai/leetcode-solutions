@@ -24,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
