@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
