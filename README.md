@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -17,6 +18,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -64,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
