@@ -65,6 +65,7 @@
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -96,6 +97,7 @@
 | [0075-sort-colors](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -181,4 +184,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
