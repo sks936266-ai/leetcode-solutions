@@ -42,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
@@ -73,6 +74,7 @@
 | [0704-binary-search](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -107,6 +109,7 @@
 | [0148-sort-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
