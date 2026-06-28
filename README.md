@@ -40,6 +40,7 @@
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -130,6 +132,7 @@
 | [0020-valid-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
