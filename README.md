@@ -86,6 +86,7 @@
 | [0735-asteroid-collision](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -97,6 +98,7 @@
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
