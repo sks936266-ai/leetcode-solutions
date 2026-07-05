@@ -66,6 +66,7 @@
 | [0048-rotate-image](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
