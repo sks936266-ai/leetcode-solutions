@@ -119,6 +119,7 @@
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@
 | [0075-sort-colors](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -160,6 +162,7 @@
 | [0067-add-binary](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
