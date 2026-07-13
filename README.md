@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -276,6 +277,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -283,6 +285,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -290,6 +293,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
