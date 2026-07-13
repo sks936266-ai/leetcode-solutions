@@ -282,6 +282,7 @@
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -298,10 +300,15 @@
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
