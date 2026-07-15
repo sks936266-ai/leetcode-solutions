@@ -288,6 +288,7 @@
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
