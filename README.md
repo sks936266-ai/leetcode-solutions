@@ -78,6 +78,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -159,6 +160,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
