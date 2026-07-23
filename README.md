@@ -292,6 +292,7 @@
 | [0110-balanced-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -310,6 +311,7 @@
 | [0110-balanced-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -329,6 +331,7 @@
 | [0110-balanced-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -344,6 +347,7 @@
 | [0101-symmetric-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
