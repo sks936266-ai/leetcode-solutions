@@ -51,6 +51,7 @@
 | [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +91,7 @@
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -141,6 +143,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
