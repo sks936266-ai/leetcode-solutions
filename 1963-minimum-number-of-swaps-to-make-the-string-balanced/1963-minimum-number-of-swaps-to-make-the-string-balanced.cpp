@@ -1,20 +1,22 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int unmatched = 0;
-
-        for (char c : s) {
-            if (c == '[') {
-                unmatched++;
-            } else {
-                // Agar pehle se unmatched '[' maujood hai, toh match kar do
-                if (unmatched > 0) {
-                    unmatched--;
+        int n=s.length();
+        stack<char> st;
+        for(char ch:s){
+            if(ch=='['){
+                st.push(ch);
+            }
+            else{
+                if(!st.empty()&&st.top()=='['){
+                    st.pop();
+                }
+                else{
+                    st.push(ch);
                 }
             }
         }
-
-        // Formula: ceil(unmatched / 2)
-        return (unmatched + 1) / 2;
+        int unmatched_closing=st.size()/2;
+        return (unmatched_closing+1)/2;  
     }
 };
