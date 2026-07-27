@@ -1,22 +1,20 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int open_needed = 0;
-        int add_needed = 0;
-
-        for (char c : s) {
-            if (c == '(') {
-                open_needed++;
-            } else { // c == ')'
-                if (open_needed > 0) {
-                    open_needed--; // Valid pair ban gaya
-                } else {
-                    add_needed++; // Bhaagte hue ')' ke liye ek '(' chahiye
+         stack<char> st;
+         for(char ch:s){
+            if(ch=='('){
+                st.push(ch);
+            }
+            else{
+                if(!st.empty()&& st.top()=='('){
+                    st.pop();
+                }
+                else{
+                    st.push(ch);
                 }
             }
         }
-
-        // Remaining unmatched '(' + unmatched ')'
-        return open_needed + add_needed;
+        return st.size();
     }
 };
