@@ -52,6 +52,7 @@
 | [0647-palindromic-substrings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -95,6 +96,7 @@
 | [0739-daily-temperatures](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -214,6 +216,7 @@
 | [0739-daily-temperatures](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -292,6 +295,7 @@
 | [0503-next-greater-element-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Bucket Sort
