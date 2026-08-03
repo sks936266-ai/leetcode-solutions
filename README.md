@@ -26,6 +26,7 @@
 | [0206-reverse-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
@@ -112,6 +114,7 @@
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -175,6 +178,7 @@
 | [0198-house-robber](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
@@ -405,4 +409,16 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
