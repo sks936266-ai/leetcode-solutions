@@ -146,6 +146,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0383-ransom-note](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
