@@ -88,6 +88,7 @@
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -139,6 +140,7 @@
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
