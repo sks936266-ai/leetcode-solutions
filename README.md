@@ -96,6 +96,7 @@
 | [0496-next-greater-element-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -451,4 +452,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
