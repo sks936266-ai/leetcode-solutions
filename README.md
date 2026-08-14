@@ -109,6 +109,7 @@
 | [1598-crawler-log-folder](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0496-next-greater-element-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
 | ------- |
@@ -453,4 +456,5 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
