@@ -288,6 +288,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0704-binary-search) |
 ## String Matching
 |  |
@@ -469,4 +470,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
