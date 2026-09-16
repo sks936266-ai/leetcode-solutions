@@ -133,6 +133,7 @@
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Hash Table
 |  |
@@ -296,6 +298,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Binary Search
 |  |
 | ------- |
