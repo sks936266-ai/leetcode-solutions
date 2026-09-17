@@ -28,6 +28,7 @@
 | [0234-palindrome-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Bit Manipulation
@@ -146,6 +148,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -221,6 +224,7 @@
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## String
 |  |
 | ------- |
@@ -497,4 +501,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
