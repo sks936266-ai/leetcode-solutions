@@ -116,6 +116,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1929-concatenation-of-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -294,6 +295,7 @@
 | [0054-spiral-matrix](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
