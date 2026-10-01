@@ -12,24 +12,22 @@
 class Solution {
 public:
     string tree2str(TreeNode* root) {
-        if (!root) return "";
-        
-        // Base case: leaf node
-        if (!root->left && !root->right) {
-            return to_string(root->val);
+        if(root==NULL){
+            return "";
         }
-        
-        // If there is no right child, only include the left child
-        if (!root->right) {
-            return to_string(root->val) + "(" + tree2str(root->left) + ")";
+        string result=to_string(root->val);
+        string LEFT=tree2str(root->left);
+        string RIGHT=tree2str(root->right);
+
+        if(root->left==NULL && root->right==NULL){
+            return result;
         }
-        
-        // If there is no left child, include empty parentheses for the left child
-        if (!root->left) {
-            return to_string(root->val) + "()(" + tree2str(root->right) + ")";
+        if(root->left==NULL){
+            return result+"()"+"("+RIGHT+")";
         }
-        
-        // If both children exist
-        return to_string(root->val) + "(" + tree2str(root->left) + ")(" + tree2str(root->right) + ")";
+        if(root->right==NULL){
+            return result+"("+LEFT+")";
+        }
+        return result+"("+LEFT+")"+"("+RIGHT+")";
     }
 };
