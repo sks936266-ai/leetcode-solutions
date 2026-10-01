@@ -29,6 +29,7 @@
 | [0342-power-of-four](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@
 | [0263-ugly-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -152,6 +154,7 @@
 | [0231-power-of-two](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
