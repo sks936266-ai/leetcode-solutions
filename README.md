@@ -441,6 +441,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -530,4 +531,5 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
