@@ -126,6 +126,7 @@
 | [1929-concatenation-of-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2706-buy-two-chocolates](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -208,6 +209,7 @@
 | [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2706-buy-two-chocolates](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2706-buy-two-chocolates](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Binary Search
 |  |
