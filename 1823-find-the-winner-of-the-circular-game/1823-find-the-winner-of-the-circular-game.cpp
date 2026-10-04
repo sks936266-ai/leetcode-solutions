@@ -1,12 +1,17 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        int winner = 0;  // with 1 friend, the winner is at position 0
-
-        for (int size = 2; size <= n; size++) {
-            winner = (winner + k) % size;
+        vector<int> arr;
+        for(int i=1;i<=n;i++){
+            arr.push_back(i);
         }
+        int i=0;
+        while(arr.size()>1){
+            int idx=(i+k-1)%arr.size();
+            arr.erase(arr.begin()+idx);
+            i=idx%arr.size();
 
-        return winner + 1;  // friends are numbered from 1
+        }
+        return arr[0];
     }
 };
