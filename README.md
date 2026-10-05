@@ -116,6 +116,7 @@
 | [0946-validate-stack-sequences](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -163,6 +164,7 @@
 | [0338-counting-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -362,6 +364,7 @@
 | [0048-rotate-image](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Tree
 |  |
 | ------- |
@@ -552,4 +556,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
