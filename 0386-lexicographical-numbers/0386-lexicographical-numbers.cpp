@@ -1,21 +1,27 @@
 class Solution {
 public:
-    void solve(int curr,int n,vector<int> &result){
-        if(curr>n) return ;
-        result.push_back(curr);
+       
+    void solve(int currnum,int n,vector<int> &result){
+        if(currnum>n) return;
+        result.push_back(currnum);
         for(int append=0;append<=9;append++){
-            int newnum=curr*10+append;
+            int newnum=(currnum*10)+append;
             if(newnum>n){
-                break;
+                return;
             }
+
             solve(newnum,n,result);
+                
         }
     }
+
     vector<int> lexicalOrder(int n) {
         vector<int> result;
-        for(int startnum=1;startnum<=9;startnum++){
-            solve(startnum,n,result);
+        for(int newnum=1;newnum<=9;newnum++){
+            solve(newnum,n,result);
         }
         return result;
+        
     }
+    
 };
