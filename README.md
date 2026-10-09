@@ -91,6 +91,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -139,6 +140,7 @@
 | [0048-rotate-image](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
@@ -183,6 +185,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -566,5 +569,14 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
