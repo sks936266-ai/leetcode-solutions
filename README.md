@@ -118,6 +118,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -149,6 +150,7 @@
 | [0486-predict-the-winner](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -561,4 +563,8 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
