@@ -292,6 +292,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1328-break-a-palindrome](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1598-crawler-log-folder](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -346,6 +347,7 @@
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1328-break-a-palindrome](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
