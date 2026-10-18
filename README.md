@@ -61,6 +61,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0948-bag-of-tokens](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -118,6 +119,7 @@
 | [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [0948-bag-of-tokens](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0980-unique-paths-iii) |
@@ -222,6 +224,7 @@
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0948-bag-of-tokens](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2706-buy-two-chocolates](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
@@ -350,6 +353,7 @@
 | [0561-array-partition](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0948-bag-of-tokens](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
