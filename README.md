@@ -162,6 +162,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0989-add-to-array-form-of-integer](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1323-maximum-69-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -358,6 +359,7 @@
 | [0881-boats-to-save-people](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1323-maximum-69-number](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
