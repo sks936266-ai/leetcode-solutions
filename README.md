@@ -130,6 +130,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -232,6 +233,7 @@
 | [0948-bag-of-tokens](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2706-buy-two-chocolates](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -409,6 +411,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
