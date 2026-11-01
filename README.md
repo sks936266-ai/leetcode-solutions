@@ -280,6 +280,7 @@
 | [0014-longest-common-prefix](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
