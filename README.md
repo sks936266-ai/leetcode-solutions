@@ -140,6 +140,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2706-buy-two-chocolates](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/sks936266-ai/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -169,6 +170,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sks936266-ai/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2939-maximum-xor-product](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Bit Manipulation
 |  |
@@ -612,12 +614,18 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Number Theory
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks936266-ai/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
