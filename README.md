@@ -489,6 +489,7 @@
 | [0623-add-one-row-to-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -543,6 +544,7 @@
 | [0623-add-one-row-to-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sks936266-ai/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
